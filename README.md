@@ -1,16 +1,28 @@
-## Hi there 👋
+## Technical Skills
 
-<!--
-**watawata03/watawata03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Languages
+- Python — 4 years
+- Java — 2 years
+- C# — 1 year
+- Swift — 1 year
+- Dart — 1 year
 
-Here are some ideas to get you started:
+### Frameworks
+- Django — 3 years
+- Flutter — 1 year
+- FastAPI — 1 month
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Databases
+- PostgreSQL
+
+### Cloud & DevOps
+- AWS — 1 year
+- GitHub Actions — 6 months
+
+### Cybersecurity
+- Cybersecurity — 2 years
+
+### Design & Creative Tools
+- Adobe Photoshop — 2 years
+- Adobe Illustrator — 1 year
+- Adobe After Effects — 6 months
