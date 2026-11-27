@@ -14,9 +14,9 @@ I'm passionate about combining technology and creativity through software engine
 - Dart — 1 year
 
 ### Frameworks
-- Django — 3 years
+- Django — 2 years
 - Flutter — 1 year
-- FastAPI — 1 month
+- FastAPI — 2 month
 
 ### Databases
 - PostgreSQL
@@ -35,5 +35,5 @@ I'm passionate about combining technology and creativity through software engine
 
 ### Design & Creative Tools
 - Adobe Photoshop — 2 years
-- Adobe Illustrator — 1 year
-- Adobe After Effects — 6 months
+- Adobe Illustrator — 2 year
+- Adobe After Effects — 5 months
